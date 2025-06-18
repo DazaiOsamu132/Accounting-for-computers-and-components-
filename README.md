@@ -2,10 +2,10 @@
 
 Windows Forms приложение для учёта компьютеров и комплектующих, написанное на **C#** (.NET Framework) с использованием **SQL Server** и **Windows Forms**.
 
-№№📷 Скриншоты интерфейса
+##📷 Скриншоты интерфейса
 ![image](https://github.com/user-attachments/assets/78d09166-0ec7-4a65-8ee7-ec67de15b926) ![image](https://github.com/user-attachments/assets/db358a61-16c7-4a7a-8359-6525ada8147f) ![image](https://github.com/user-attachments/assets/658944c2-63b5-4003-950e-ba6a64f547b3)
 ![image](https://github.com/user-attachments/assets/c7198995-2229-4e11-9f20-362b17ed829b) ![image](https://github.com/user-attachments/assets/2dd01bf4-2562-4de1-9853-fa1a3e4d4b54)
-№№📷 Скриншоты схемы базы данных
+##📷 Скриншоты схемы базы данных
 ![image](https://github.com/user-attachments/assets/4daf76ef-899b-434d-a178-e130c1577b04)
 
 
@@ -45,7 +45,7 @@ Windows Forms приложение для учёта компьютеров и �
 ```csharp
 SqlConnection sqlConnection = new SqlConnection(@"Data Source=ВАШ_СЕРВЕР;Initial Catalog=HRYBD;Integrated Security=True;");
 
-❓ Частые проблемы и решения
+##❓ Частые проблемы и решения
 
     Ошибка подключения к базе: Проверьте правильность имени сервера и наличие прав доступа
 
