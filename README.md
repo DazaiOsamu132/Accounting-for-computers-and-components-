@@ -1,7 +1,9 @@
 # Accounting for Computers and Components 🖥️🔧
 
 Windows Forms приложение для учёта компьютеров и комплектующих, написанное на **C#** (.NET Framework) с использованием **SQL Server** и **Windows Forms**.
-[![Discussions](https://img.shields.io/badge/Discussions-Ask_Question-blue?logo=github)](https://github.com/DazaiOsamu132/Accounting-for-computers-and-components-/discussions)
+
+## 💬 Обсуждения
+Есть вопросы или предложения? Присоединяйтесь к [обсуждениям](https://github.com/DazaiOsamu132/Accounting-for-computers-and-components-/discussions) репозитория!
 
 ## 📸 Скриншоты интерфейса
 
