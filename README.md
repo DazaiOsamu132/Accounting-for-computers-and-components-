@@ -68,6 +68,5 @@ SqlConnection sqlConnection = new SqlConnection(
     @"Data Source=ИМЯ_СЕРВЕРА;Initial Catalog=HRYBD;User ID=логин;Password=пароль;");
 ```
 
-📜 License: Custom (commercial use allowed; academic use prohibited). See LICENSE for details.
-
+📜 License: See [LICENSE.md](./LICENSE.md)
 
