@@ -68,6 +68,7 @@ SqlConnection sqlConnection = new SqlConnection(
     @"Data Source=ИМЯ_СЕРВЕРА;Initial Catalog=HRYBD;User ID=логин;Password=пароль;");
 ```
 
-📜 License: See [![License](https://img.shields.io/badge/License-Custom-blue)](./LICENSE.md)
+📜 License: See [![License](https://img.shields.io/badge/License-Custom-blue)](./LICENSE)
+
 
 
