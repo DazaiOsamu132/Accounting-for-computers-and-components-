@@ -1,21 +1,71 @@
-MIT License
+Copyright (c) 2025 DazaiOsamu132
+Repository: https://github.com/DazaiOsamu132/Accounting-for-computers-and-components-
 
-Copyright (c) 2025 claian
+--- РУССКАЯ ВЕРСИЯ ---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Авторское право (c) 2025 DazaiOsamu132 (далее — «Автор»).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Термины  
+   1.1. «Проект» — исходный код, файлы, документация и другие материалы, входящие в данный репозиторий.  
+   1.2. «Пользователь» — любое физическое или юридическое лицо, использующее Проект.  
+   1.3. «Академические работы» — курсовые, лабораторные, практические, контрольные, дипломные и аналогичные задания, выполняемые в рамках образовательных программ.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Предоставляемые права  
+   При соблюдении условий настоящей лицензии Автор предоставляет Пользователю неисключительную, всемирную, безотзывную лицензию:  
+   a) копировать, распространять и публично исполнять Проект;  
+   b) модифицировать Проект и распространять производные произведения;  
+   c) использовать Проект в коммерческих целях.  
+
+3. Условия использования  
+   3.1. **Авторство.** При любом использовании или распространении Проекта (включая производные) необходимо сохранять указание авторства: «DazaiOsamu132» и ссылку на исходный репозиторий.  
+   3.2. **Запрет на академическое использование.** Запрещается использование Проекта, полностью или частично, в учебных, курсовых, дипломных, лабораторных и аналогичных работах без письменного разрешения автора.  
+   3.3. **Коммерческое использование.** Разрешено при условии соблюдения пунктов 3.1 и 3.2.  
+
+4. Распространение и производные  
+   4.1. При распространении исходного кода или производных необходимо включать копию настоящей лицензии.  
+   4.2. Производные произведения могут распространяться под любой лицензией, при условии сохранения авторства и соблюдения запрета на академическое использование.  
+
+5. Ограничения  
+   5.1. Настоящая лицензия не предоставляет прав на использование торговых марок, логотипов или имени автора в рекламе.  
+   5.2. Для получения разрешения на академическое использование обращайтесь к автору через GitHub.  
+
+6. Отказ от гарантий  
+   Проект предоставляется «как есть», без каких-либо гарантий, явных или подразумеваемых. Автор не несёт ответственности за любой ущерб, возникший вследствие использования данного Проекта.  
+
+7. Применимое право  
+   Настоящая лицензия регулируется законодательством Российской Федерации.  
+
+--- ENGLISH VERSION ---
+
+Copyright (c) 2025 DazaiOsamu132  
+Repository: https://github.com/DazaiOsamu132/Accounting-for-computers-and-components-
+
+1. Definitions  
+   1.1. "Project" means the source code, files, documentation and other materials contained in this repository.  
+   1.2. "User" means any individual or entity using the Project.  
+   1.3. "Academic Works" means coursework, lab reports, theses, or similar assignments completed as part of educational programs.  
+
+2. Grant of Rights  
+   Subject to the terms below, the Author grants the User a worldwide, non-exclusive, royalty-free, irrevocable license to:  
+   a) copy, distribute, and publicly perform the Project;  
+   b) modify and distribute derivative works;  
+   c) use the Project for commercial purposes.  
+
+3. Conditions  
+   3.1. **Attribution.** You must give appropriate credit to “DazaiOsamu132” and provide a link to the original repository.  
+   3.2. **Prohibition on Academic Use.** The Project may not be used, in whole or in part, for coursework, theses, or similar educational works without the author’s written permission.  
+   3.3. **Commercial Use.** Commercial use is permitted, provided that the above conditions are met.  
+
+4. Redistribution and Derivatives  
+   4.1. You must include a copy of this license when redistributing the Project.  
+   4.2. Derivative works may be released under any license, as long as attribution is preserved and academic use remains prohibited.  
+
+5. Limitations  
+   5.1. This license does not grant rights to use the author’s trademarks, logos, or name for promotional purposes.  
+   5.2. For academic permissions, contact the author via GitHub.  
+
+6. Disclaimer of Warranty  
+   The Project is provided “as is”, without warranties of any kind, express or implied. The Author shall not be liable for any damages resulting from the use of this Project.  
+
+7. Governing Law  
+   This license is governed by the laws of the Russian Federation.
